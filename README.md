@@ -142,3 +142,8 @@ npm run build
 firebase deploy
 ```
 Website Built and Developed by Karan Rasaily
+
+
+live link: https://mechiclinic.web.app
+
+-
